@@ -1,0 +1,7 @@
+C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/CMakeFiles/App.dir
+C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/CMakeFiles/AppClient1.dir
+C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/CMakeFiles/AppClient2.dir
+C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/CMakeFiles/AppClient3.dir
+C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/CMakeFiles/App_Test.dir
+C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

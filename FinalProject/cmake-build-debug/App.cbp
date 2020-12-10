@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="App"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="App">
+				<Option output="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/App.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include/Commands"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Controllers"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Ext"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Types"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Utils"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 App"/>
+					<CompileFile command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="App/fast">
+				<Option output="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/App.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include/Commands"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Controllers"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Ext"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Types"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Utils"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 App/fast"/>
+					<CompileFile command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AppClient1">
+				<Option output="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/AppClient1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include/Commands"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Controllers"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Ext"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Types"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Utils"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 AppClient1"/>
+					<CompileFile command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AppClient1/fast">
+				<Option output="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/AppClient1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include/Commands"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Controllers"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Ext"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Types"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Utils"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 AppClient1/fast"/>
+					<CompileFile command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AppClient2">
+				<Option output="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/AppClient2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include/Commands"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Controllers"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Ext"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Types"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Utils"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 AppClient2"/>
+					<CompileFile command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AppClient2/fast">
+				<Option output="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/AppClient2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include/Commands"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Controllers"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Ext"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Types"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Utils"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 AppClient2/fast"/>
+					<CompileFile command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AppClient3">
+				<Option output="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/AppClient3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include/Commands"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Controllers"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Ext"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Types"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Utils"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 AppClient3"/>
+					<CompileFile command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AppClient3/fast">
+				<Option output="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/AppClient3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include/Commands"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Controllers"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Ext"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Types"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Utils"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 AppClient3/fast"/>
+					<CompileFile command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="App_Test">
+				<Option output="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/App_Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include/Commands"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Controllers"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Ext"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Types"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Utils"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 App_Test"/>
+					<CompileFile command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="App_Test/fast">
+				<Option output="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/App_Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/./include/Commands"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Controllers"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Ext"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Types"/>
+					<Add directory="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/include/Utils"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Users/ojast/Downloads/MinGW_7.3/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 App_Test/fast"/>
+					<CompileFile command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ojast/Downloads/MinGW_7.3/bin/mingw32-make.exe -f &quot;C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/src/App.cpp">
+			<Option target="App"/>
+			<Option target="AppClient1"/>
+			<Option target="AppClient2"/>
+			<Option target="AppClient3"/>
+			<Option target="App_Test"/>
+		</Unit>
+		<Unit filename="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/src/Commands/Brush.cpp">
+			<Option target="App"/>
+			<Option target="AppClient1"/>
+			<Option target="AppClient2"/>
+			<Option target="AppClient3"/>
+			<Option target="App_Test"/>
+		</Unit>
+		<Unit filename="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/src/Commands/BrushUndo.cpp">
+			<Option target="App"/>
+			<Option target="AppClient1"/>
+			<Option target="AppClient2"/>
+			<Option target="AppClient3"/>
+			<Option target="App_Test"/>
+		</Unit>
+		<Unit filename="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/src/Commands/Draw_Canvas.cpp">
+			<Option target="App"/>
+			<Option target="AppClient1"/>
+			<Option target="AppClient2"/>
+			<Option target="AppClient3"/>
+			<Option target="App_Test"/>
+		</Unit>
+		<Unit filename="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/src/Controllers/UDPNetworkClient.cpp">
+			<Option target="App"/>
+			<Option target="AppClient1"/>
+			<Option target="AppClient2"/>
+			<Option target="AppClient3"/>
+			<Option target="App_Test"/>
+		</Unit>
+		<Unit filename="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/src/Controllers/UDPNetworkServer.cpp">
+			<Option target="App"/>
+			<Option target="AppClient1"/>
+			<Option target="AppClient2"/>
+			<Option target="AppClient3"/>
+			<Option target="App_Test"/>
+		</Unit>
+		<Unit filename="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/src/Utils/Command.cpp">
+			<Option target="App"/>
+			<Option target="AppClient1"/>
+			<Option target="AppClient2"/>
+			<Option target="AppClient3"/>
+			<Option target="App_Test"/>
+		</Unit>
+		<Unit filename="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/src/Utils/CommandFactory.cpp">
+			<Option target="App"/>
+			<Option target="AppClient1"/>
+			<Option target="AppClient2"/>
+			<Option target="AppClient3"/>
+			<Option target="App_Test"/>
+		</Unit>
+		<Unit filename="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/src/main.cpp">
+			<Option target="App"/>
+			<Option target="AppClient1"/>
+			<Option target="AppClient2"/>
+			<Option target="AppClient3"/>
+		</Unit>
+		<Unit filename="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/tests/main_test.cpp">
+			<Option target="App_Test"/>
+		</Unit>
+		<Unit filename="C:/Users/ojast/Personal/MASTERS/MSD/finalproject-valgrind-warriors/FinalProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

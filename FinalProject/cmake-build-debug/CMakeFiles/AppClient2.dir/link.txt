@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\AppClient2.dir/objects.a
+C:\Users\ojast\Downloads\MinGW_7.3\bin\ar.exe cr CMakeFiles\AppClient2.dir/objects.a @CMakeFiles\AppClient2.dir\objects1.rsp
+C:\Users\ojast\Downloads\MinGW_7.3\bin\g++.exe  -pthread -g   -Wl,--whole-archive CMakeFiles\AppClient2.dir/objects.a -Wl,--no-whole-archive  -o AppClient2.exe -Wl,--out-implib,libAppClient2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AppClient2.dir\linklibs.rsp

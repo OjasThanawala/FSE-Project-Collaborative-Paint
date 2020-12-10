@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="App" targetName="App" />
+      <config projectName="App" targetName="AppClient2" />
+      <config projectName="App" targetName="App_Test" />
+      <config projectName="App" targetName="AppClient1" />
+      <config projectName="App" targetName="AppClient3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9612123-de89-4305-bcb1-36f61cb38380" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+    <option name="clangWarnings" value="-Wno-unused-variable,-Wno-infinite-recursion,-Werror=implicit-function-declaration,-Wshadow,-Wno-shadow-field-in-constructor-modified,-Wno-shadow-ivar,-Wuninitialized,-Wunused-label,-Wunused-lambda-capture,-Wno-unknown-pragmas" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1krQvkTLPpZX0Q8qB7diZUCEx0y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../trash/finalproject-valgrind-warriors/labs/Lab9_GUI" />
+  </component>
+  <component name="RunManager" selected="CMake Application.AppClient2">
+    <configuration name="App_Test" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="App" TARGET_NAME="App_Test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="App" RUN_TARGET_NAME="App_Test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="App" TARGET_NAME="App" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="App" RUN_TARGET_NAME="App">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppClient1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="App" TARGET_NAME="AppClient1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="App" RUN_TARGET_NAME="AppClient1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppClient2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="App" TARGET_NAME="AppClient2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="App" RUN_TARGET_NAME="AppClient2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppClient3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="App" TARGET_NAME="AppClient3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="App" RUN_TARGET_NAME="AppClient3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Catch.App_Test" />
+      <item itemvalue="CMake Application.AppClient1" />
+      <item itemvalue="CMake Application.AppClient2" />
+      <item itemvalue="CMake Application.AppClient3" />
+      <item itemvalue="CMake Application.App" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9612123-de89-4305-bcb1-36f61cb38380" name="Default Changelist" comment="" />
+      <created>1606456462415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606456462415</updated>
+      <workItem from="1606456463540" duration="1985000" />
+      <workItem from="1606458879055" duration="7869000" />
+      <workItem from="1606475788431" duration="12743000" />
+      <workItem from="1606716543704" duration="6554000" />
+      <workItem from="1606736068162" duration="2613000" />
+      <workItem from="1606821207288" duration="81068000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="44" key="#New_File_Extensions" timestamp="1606550218908">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state x="233" y="44" key="#New_File_Extensions/0.0.1280.769@0.0.1280.769" timestamp="1606550218908" />
+    <state x="384" y="209" key="#Notifications" timestamp="1606990067930">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state x="384" y="209" key="#Notifications/0.0.1280.769@0.0.1280.769" timestamp="1606990067930" />
+    <state x="371" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607428894949">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state x="371" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.769@0.0.1280.769" timestamp="1607428894949" />
+    <state x="421" y="140" key="FileChooserDialogImpl" timestamp="1606986859922">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state x="421" y="140" key="FileChooserDialogImpl/0.0.1280.769@0.0.1280.769" timestamp="1606986859922" />
+    <state width="1237" height="450" key="GridCell.Tab.0.bottom" timestamp="1607549060978">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state width="1237" height="450" key="GridCell.Tab.0.bottom/0.0.1280.769@0.0.1280.769" timestamp="1607549060978" />
+    <state width="1237" height="450" key="GridCell.Tab.0.center" timestamp="1607549060978">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state width="1237" height="450" key="GridCell.Tab.0.center/0.0.1280.769@0.0.1280.769" timestamp="1607549060978" />
+    <state width="1237" height="450" key="GridCell.Tab.0.left" timestamp="1607549060978">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state width="1237" height="450" key="GridCell.Tab.0.left/0.0.1280.769@0.0.1280.769" timestamp="1607549060978" />
+    <state width="1237" height="450" key="GridCell.Tab.0.right" timestamp="1607549060978">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state width="1237" height="450" key="GridCell.Tab.0.right/0.0.1280.769@0.0.1280.769" timestamp="1607549060978" />
+    <state width="1237" height="33" key="GridCell.Tab.1.bottom" timestamp="1607549060976">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state width="1237" height="33" key="GridCell.Tab.1.bottom/0.0.1280.769@0.0.1280.769" timestamp="1607549060976" />
+    <state width="1237" height="33" key="GridCell.Tab.1.center" timestamp="1607549060975">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state width="1237" height="33" key="GridCell.Tab.1.center/0.0.1280.769@0.0.1280.769" timestamp="1607549060975" />
+    <state width="1237" height="33" key="GridCell.Tab.1.left" timestamp="1607549060975">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state width="1237" height="33" key="GridCell.Tab.1.left/0.0.1280.769@0.0.1280.769" timestamp="1607549060975" />
+    <state width="1237" height="33" key="GridCell.Tab.1.right" timestamp="1607549060975">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state width="1237" height="33" key="GridCell.Tab.1.right/0.0.1280.769@0.0.1280.769" timestamp="1607549060975" />
+    <state x="251" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607548369265">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state x="251" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.769@0.0.1280.769" timestamp="1607548369265" />
+    <state x="458" y="299" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606551375660">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state x="458" y="299" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.769@0.0.1280.769" timestamp="1606551375660" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1607501663142">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1280.769@0.0.1280.769" timestamp="1607501663142" />
+    <state x="297" y="173" key="run.anything.popup" timestamp="1606472844490">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state x="297" y="173" key="run.anything.popup/0.0.1280.769@0.0.1280.769" timestamp="1606472844490" />
+    <state x="303" y="90" width="672" height="678" key="search.everywhere.popup" timestamp="1607420549649">
+      <screen x="0" y="0" width="1280" height="769" />
+    </state>
+    <state x="303" y="90" width="672" height="678" key="search.everywhere.popup/0.0.1280.769@0.0.1280.769" timestamp="1607420549649" />
+  </component>
+</project>

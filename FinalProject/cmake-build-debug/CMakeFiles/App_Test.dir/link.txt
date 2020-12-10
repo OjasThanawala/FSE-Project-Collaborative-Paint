@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\App_Test.dir/objects.a
+C:\Users\ojast\Downloads\MinGW_7.3\bin\ar.exe cr CMakeFiles\App_Test.dir/objects.a @CMakeFiles\App_Test.dir\objects1.rsp
+C:\Users\ojast\Downloads\MinGW_7.3\bin\g++.exe  -pthread -g   -Wl,--whole-archive CMakeFiles\App_Test.dir/objects.a -Wl,--no-whole-archive  -o App_Test.exe -Wl,--out-implib,libApp_Test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\App_Test.dir\linklibs.rsp

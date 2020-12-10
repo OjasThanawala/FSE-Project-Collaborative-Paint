@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@C:\Users\ojast\Downloads\MinGW_7.3
+Options: 
+
+Options:
